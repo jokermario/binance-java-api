@@ -1,7 +1,7 @@
 # Java Binance API
 
 binance-java-api is a lightweight Java library for interacting with the [Binance API](https://www.binance.com/restapipub.html), providing complete API coverage, and supporting synchronous and asynchronous requests, as well as event streaming using WebSockets.
-#### Note: This repo exists to make sure the [Original Repo](https://github.com/binance-exchange/binance-java-api) and all its latest updates exists on the Maven Repository.
+#### Note: Check out the  [Original Repo](https://github.com/binance-exchange/binance-java-api)
 
 ## Features
 * Support for synchronous and asynchronous REST requests to all [General](https://www.binance.com/restapipub.html#user-content-general-endpoints), [Market Data](https://www.binance.com/restapipub.html#user-content-market-data-endpoints), [Account](https://www.binance.com/restapipub.html#user-content-account-endpoints) endpoints, and [User](https://www.binance.com/restapipub.html#user-content-user-data-stream-endpoints) stream endpoints.
